@@ -23,8 +23,8 @@ Start here! We will introduce this respository in six part.
 1. Interactive web service of PCA and CA analysis by Shinyapp.
 2. Download Dataset on https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 3. Web:　https://jacobwu.shinyapps.io/NCCU_DS2023_hw4_111753141/
-4.　PCA:　* ![PCA](images/PCA_result.jpg)
-5.　CA:　* ![CA](images/CA_result.jpg)
+4. PCA:　* ![PCA](images/PCA_result.png)
+5. CA:　* ![CA](images/CA_result.png)
 
 ### Project 5
 1. GiveMeSomeCredit(Kaggle:https://www.kaggle.com/c/GiveMeSomeCredit/overview)
